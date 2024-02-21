@@ -5,6 +5,13 @@ Contains the exercises of lf5\ls3 (Makler) such as r2d2, heron and alike
 <tr><td><i>Übungsaufgaben zu Anweisung, Verzweigung und Fallunterscheidung</i></td></tr>
 </table>
 
+# **Vorraussetzung für diese Übungsaufgaben**
+
+- Grundlagen der Programmierung in Python (IF/ELSE; While)
+- Funktionen, Parameter, Argumente
+- Tupel, ggfs. Arrays
+
+
 # **Aufgabe 1: Simulation der Populationsentwicklung von R2-D2**
 Erstellen Sie einen PAP/ ein Python-Programm zur Simulation der Populationsentwicklung von R2-D2-Robotern (mit etwas Fantasie ;-) anhand der folgenden Vorgaben:
 
