@@ -1,7 +1,7 @@
 # lf5-ls3-exercise
 Contains the exercises of lf5\ls3 (Makler) such as r2d2, heron and alike
 
-<table><tr><th><p>Ausbildung zum Fachinformatiker</p><p><b>Lernfeld 5 – Einführung in grundlegende Programmierkonzepte</b></p></th><th rowspan="2">![](Aspose.Words.cd7ee974-0d64-4e49-bb48-fc4e32b9d5c4.001.png)</th></tr>
+<table><tr><th><p>Ausbildung zum Fachinformatiker</p><p><b>Lernfeld 5 – Einführung in grundlegende Programmierkonzepte</b></p></th></tr>
 <tr><td><i>Übungsaufgaben zu Anweisung, Verzweigung und Fallunterscheidung</i></td></tr>
 </table>
 
