@@ -5,7 +5,7 @@ Contains the exercises of lf5\ls3 (Makler) such as r2d2, heron and alike
 <tr><td><i>Übungsaufgaben zu Anweisung, Verzweigung und Fallunterscheidung</i></td></tr>
 </table>
 
-# **Vorraussetzung für diese Übungsaufgaben**
+# **Voraussetzung für diese Übungsaufgaben**
 
 - Grundlagen der Programmierung in Python (IF/ELSE; While)
 - Funktionen, Parameter, Argumente
