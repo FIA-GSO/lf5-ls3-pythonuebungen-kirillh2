@@ -91,5 +91,5 @@ Das folgende Python-Programm berechnet die Quersumme einer eingegebenen Zahl. Er
 |<p></p><p></p>||||
 |<p></p><p></p>||||
 
-LS-5.3-Übungsaufgaben-v5.docx	1	FE,FN -  09.02.2021
+LS-5.3-Übungsaufgaben-v5.docx	1	EG,FE,FN -  21.02.2024
 
