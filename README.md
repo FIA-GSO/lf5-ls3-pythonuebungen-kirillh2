@@ -14,7 +14,7 @@ Erstellen Sie einen PAP/ ein Python-Programm zur Simulation der Populationsentwi
 - **Regeln zur Alterung:** Nur ein bestimmter Anteil erreicht die nächste Altersstufe. Nur jeder zweite Junge R2-D2 wird erwachsen (alle anderen werden verschrottet) und nur jeder dritte Erwachsene R2-D2 wird alt. 
 - **Regeln zur Reproduktion:** Wir gehen weiter davon aus, dass jeder Erwachsene R2-D2 vier Junge R2-D2 konstruiert und dass jeder Alte R2-D2 zwei Junge R2-D2 konstruiert.
 
-  ![](Aspose.Words.cd7ee974-0d64-4e49-bb48-fc4e32b9d5c4.002.jpeg)
+  ![](Images/Aspose.Words.cd7ee974-0d64-4e49-bb48-fc4e32b9d5c4.002.jpeg)
 
 |**Schritt**|**Junge R2D2**|**Erwachsene R2D2**|**Alte R2D2**|
 | :-: | :-: | :-: | :-: |
