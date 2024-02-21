@@ -5,7 +5,7 @@ Contains the exercises of lf5\ls3 (Makler) such as r2d2, heron and alike
 <tr><td><i>Übungsaufgaben zu Anweisung, Verzweigung und Fallunterscheidung</i></td></tr>
 </table>
 
-# **Aufgabe1: Simulation der Populationsentwicklung von R2-D2**
+# **Aufgabe 1: Simulation der Populationsentwicklung von R2-D2**
 Erstellen Sie einen PAP/ ein Python-Programm zur Simulation der Populationsentwicklung von R2-D2-Robotern (mit etwas Fantasie ;-) anhand der folgenden Vorgaben:
 
 - Unterteilung in drei Altersstufen: 
@@ -23,7 +23,7 @@ Erstellen Sie einen PAP/ ein Python-Programm zur Simulation der Populationsentwi
 |…|<p></p><p></p>|||
 |<p></p><p></p>||||
 |<p></p><p></p>||||
-# ![](Aspose.Words.cd7ee974-0d64-4e49-bb48-fc4e32b9d5c4.003.png)**Aufgabe2: Streichholzspiel**
+# ![](Aspose.Words.cd7ee974-0d64-4e49-bb48-fc4e32b9d5c4.003.png)**Aufgabe 2: Streichholzspiel**
 Das so genannte **Nim-Spiel** ist ein Spiel für zwei Personen, bei dem abwechselnd eine Anzahl von Gegenständen (z.B. Streichhölzer) weggenommen wird. Gewonnen hat derjenige, der den letzten Gegenstand nehmen muss.
 
 Hintergrund: The Nimatron is a computer that allows one to play the game Nim. It was first presented in April 1940 at the 1939 New York World's Fair purely as a form of entertainment.
@@ -46,7 +46,7 @@ Optionale Varianten:
 \- Der Computerspieler legt die Anzahl der Streichhölzer für den Start zufällig fest.
 
 
-# **Aufgabe3: Berechnung der Quadratwurzel (Heron-Verfahren)**
+# **Aufgabe 3: Berechnung der Quadratwurzel (Heron-Verfahren)**
 Das **Heron-Verfahren** (Heronsche Näherungsverfahren oder babylonische Wurzelziehen) ist ein Rechenverfahren zur Berechnung einer **Näherung der Quadratwurzel** einer reellen Zahl a > 0.
 (Quelle https://de.wikipedia.org/wiki/Heron-Verfahren)
 
@@ -79,7 +79,7 @@ Aufgabe:
 ||![](Aspose.Words.cd7ee974-0d64-4e49-bb48-fc4e32b9d5c4.004.png)	|
 | :- | :- |
 
-# **Aufgabe4: Berechnung der Quersumme einer Zahl**
+# **Aufgabe 4: Berechnung der Quersumme einer Zahl**
 Das folgende Python-Programm berechnet die Quersumme einer eingegebenen Zahl. Erstellen Sie zu Dokumentationszwecken einen Programmablaufplan und machen Sie den Schreibtischtest (der Ausgaben in den Zeilen 13/14) für die **Zahl 362**.
 
 ![](Aspose.Words.cd7ee974-0d64-4e49-bb48-fc4e32b9d5c4.005.png)
