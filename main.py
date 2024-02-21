@@ -3,10 +3,10 @@
 
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 #---------------------Aufgabe 1 ------------------------------------
-def compute_r2d2_population(step_amount: int) -> tuple[int,int,int]:
+def compute_r2d2_population(steps: int) -> tuple[int,int,int]:
     """
         Computes the r2d2 population for the given step amount
-    :param step_amount: amount of steps to compute the population (e.g.: 5)
+    :param steps: amount of steps to compute the population (e.g.: 5)
     :return: tuple of childs adults and old r2d2
     """
     return (0,0,0)
@@ -16,11 +16,11 @@ def compute_r2d2_population(step_amount: int) -> tuple[int,int,int]:
 
 
 #---------------------Aufgabe 3 Heron ------------------------------------
-def heron_verfahren(flaeche : float, abweichung_grenze:float) -> float:
+def heron_verfahren(area : float, threshold:float) -> float:
     """
         computes the square root using the heron method
-    :param flaeche: size of the area
-    :param abweichung_grenze: threshold for the heron method
+    :param area: size of the area e.g.25
+    :param threshold: threshold for the heron method e.g. 0.01
     :return:the square root of the given area according to the heron method
     """
 
