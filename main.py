@@ -8,17 +8,7 @@ def compute_r2d2_population(step_amount: int) -> tuple[int,int,int]:
     :param step_amount: amount of steps to compute the population (e.g.: 5)
     :return: tuple of childs adults and old r2d2
     """
-    young = 10
-    adults = 10
-    old = 10
-
-    for step in range(step_amount):
-        newYoung = adults * 4 + old * 2
-        old = adults // 3
-        adults = young // 2
-        young = newYoung
-
-    return (young,adults,old)
+    return (0,0,0)
 
 #---------------------Aufgabe 2 Streichholz------------------------------
 #IMPLEMENT YOUR SOLUTION FOR THE STEICHHOLZSPIEL HERE
@@ -32,21 +22,8 @@ def heron_verfahren(flaeche : float, abweichung_grenze:float) -> float:
     :param abweichung_grenze: threshold for the heron method
     :return:the square root of the given area according to the heron method
     """
-    a=flaeche
-    b=1.0
-    abweichung_ok = True
-    print(" %-20s | %-20s | %20s | %20s" % ("Länge a", "Länge b", "Mittelwert","Abweichung"))
-    while(abweichung_ok):
-        mittelwert = (a + b) / 2
-        abweichung = abs(a-b)
-        print(" %-20s | %-20s | %20s | %20s" % (a, b, mittelwert, abweichung))
 
-        if(abweichung <= abweichung_grenze):
-            abweichung_ok = False
-        else:
-            a = mittelwert
-            b = flaeche / a
-    return a
+    return 0
 
 
 #---------------------Aufgabe 4 Quersumme------------------------------
