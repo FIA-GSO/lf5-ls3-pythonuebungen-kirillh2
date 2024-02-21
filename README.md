@@ -23,7 +23,7 @@ Erstellen Sie einen PAP/ ein Python-Programm zur Simulation der Populationsentwi
 |…|<p></p><p></p>|||
 |<p></p><p></p>||||
 |<p></p><p></p>||||
-# ![](Aspose.Words.cd7ee974-0d64-4e49-bb48-fc4e32b9d5c4.003.png)**Aufgabe 2: Streichholzspiel**
+# ![](Images/Aspose.Words.cd7ee974-0d64-4e49-bb48-fc4e32b9d5c4.003.png)**Aufgabe 2: Streichholzspiel**
 Das so genannte **Nim-Spiel** ist ein Spiel für zwei Personen, bei dem abwechselnd eine Anzahl von Gegenständen (z.B. Streichhölzer) weggenommen wird. Gewonnen hat derjenige, der den letzten Gegenstand nehmen muss.
 
 Hintergrund: The Nimatron is a computer that allows one to play the game Nim. It was first presented in April 1940 at the 1939 New York World's Fair purely as a form of entertainment.
@@ -76,13 +76,13 @@ Aufgabe:
 ||||||
 ||||||
 
-||![](Aspose.Words.cd7ee974-0d64-4e49-bb48-fc4e32b9d5c4.004.png)	|
+||![](Images/Aspose.Words.cd7ee974-0d64-4e49-bb48-fc4e32b9d5c4.004.png)	|
 | :- | :- |
 
 # **Aufgabe 4: Berechnung der Quersumme einer Zahl**
 Das folgende Python-Programm berechnet die Quersumme einer eingegebenen Zahl. Erstellen Sie zu Dokumentationszwecken einen Programmablaufplan und machen Sie den Schreibtischtest (der Ausgaben in den Zeilen 13/14) für die **Zahl 362**.
 
-![](Aspose.Words.cd7ee974-0d64-4e49-bb48-fc4e32b9d5c4.005.png)
+![](Images/Aspose.Words.cd7ee974-0d64-4e49-bb48-fc4e32b9d5c4.005.png)
 
 |**exponent**|**temp\_value**|**checksum**|**number**|
 | :-: | :-: | :-: | :-: |
