@@ -13,7 +13,7 @@ Contains the exercises of lf5\ls3 (Makler) such as r2d2, heron and alike
 
 
 # **Aufgabe 1: Simulation der Populationsentwicklung von R2-D2**
-Erstellen Sie einen PAP/ ein Python-Programm zur Simulation der Populationsentwicklung von R2-D2-Robotern (mit etwas Fantasie ;-) anhand der folgenden Vorgaben:
+Erstellen Sie ein Aktivitätsdiagramm ein Python-Programm zur Simulation der Populationsentwicklung von R2-D2-Robotern (mit etwas Fantasie ;-) anhand der folgenden Vorgaben:
 
 - Unterteilung in drei Altersstufen: 
   junge R2-D2, erwachsene R2-D2 und alte R2-D2
@@ -36,7 +36,7 @@ Das so genannte **Nim-Spiel** ist ein Spiel für zwei Personen, bei dem abwechse
 Hintergrund: The Nimatron is a computer that allows one to play the game Nim. It was first presented in April 1940 at the 1939 New York World's Fair purely as a form of entertainment.
 (Quelle: https://en.wikipedia.org/wiki/Nimatron)
 
-**Implementieren Sie das Streichholzspiel in folgender Variante als PAP/ in Python.**
+**Implementieren Sie das Streichholzspiel in folgender Variante als Aktivitätsdiagramm/ in Python.**
 
 *Es sind 31 Streichhölzer gegeben. Die Spieler A (Computer) und B (Mensch) nehmen abwechselnd mindestens ein und höchstens sechs Streichhölzer. Spieler A (Computer) fängt an. Wer das letzte Streichholz nehmen muss, hat verloren.*
 
@@ -64,7 +64,7 @@ Ein Rechteck mit konstanter Fläche **F** hat zu Beginn die Kanten **a = F** (hi
 Aufgabe:
 
 - Führen Sie für den Algorithmus als Textrezept einen Schreibtischtest durch
-- Erstellen Sie einen PAP dafür
+- Erstellen Sie einen Aktivitätsdiagramm dafür
 - Codieren Sie ein passendes Python-Program
   Variablen: ***laenge\_a, laenge\_b, mittelwert, abweichung***
 - Führen mit dem Python-Programm einen Schreibtischtest durch
